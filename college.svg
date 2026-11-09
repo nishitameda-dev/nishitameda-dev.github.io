@@ -1,0 +1,30 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="760" viewBox="0 0 760 760" role="img" aria-labelledby="t">
+  <title id="t">Stylized university arch</title>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#134940"></stop>
+      <stop offset="1" stop-color="#0a2826"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="760" fill="url(#sky)"></rect>
+  <circle cx="610" cy="135" r="180" fill="#3bf0a9" opacity=".07"></circle>
+  <path d="M0 610Q210 520 380 580t380-45v225H0Z" fill="#18594a"></path>
+  <path d="M0 659q245-65 425-15t335-35v151H0Z" fill="#0d3a33"></path>
+  <g fill="#0a251f" stroke="#8ab99f" stroke-width="6">
+    <path d="M220 570V245Q380 130 540 245V570h-67V278q-93-59-186 0v292Z"></path>
+    <path d="M218 238q162-157 324 0v31q-163-132-324 0Z"></path>
+    <rect x="205" y="556" width="350" height="22"></rect>
+    <rect x="212" y="267" width="72" height="289"></rect>
+    <rect x="476" y="267" width="72" height="289"></rect>
+  </g>
+  <path d="M290 570V292q91-69 180 0v278Z" fill="#2e7964" opacity=".4"></path>
+  <path d="M379 578V320" stroke="#cce4cb" stroke-opacity=".6" stroke-width="3"></path>
+  <path d="M220 228h320" stroke="#bef4d1" stroke-width="10"></path>
+  <g fill="#cce9d7" opacity=".6">
+    <circle cx="180" cy="205" r="6"></circle>
+    <circle cx="605" cy="284" r="4"></circle>
+    <circle cx="115" cy="420" r="5"></circle>
+  </g>
+  <text x="380" y="682" text-anchor="middle" fill="#a8ebcf" font-family="Arial" font-size="25" font-weight="bold" letter-spacing="9">ATHENS • GA</text>
+</svg>

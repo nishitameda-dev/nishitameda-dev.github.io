@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#041d1b"></rect>
+  <circle cx="1040" cy="200" r="300" stroke="#3ef0ba" stroke-width="1" opacity=".4" fill="none"></circle>
+  <circle cx="1040" cy="200" r="240" stroke="#3ef0ba" stroke-width="1" opacity=".2" fill="none"></circle>
+  <text x="80" y="150" font-family="Arial" fill="#3ef0ba" font-size="26">COMPUTER SCIENCE PORTFOLIO</text>
+  <text x="80" y="285" font-family="Arial" font-weight="bold" fill="white" font-size="90">Sai Nishita</text>
+  <text x="80" y="390" font-family="Arial" font-weight="bold" fill="#3ef0ba" font-size="90">Meda.</text>
+  <text x="82" y="510" font-family="Arial" fill="#b0c9c1" font-size="28">Creating with curiosity. Building with purpose.</text>
+</svg>

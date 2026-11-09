@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" role="img" aria-labelledby="t">
+  <title id="t">Illustrated sustainability sorting game</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#153e37"></stop>
+      <stop offset="1" stop-color="#071e21"></stop>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#74d0b4" stroke-opacity=".09"></path>
+    </pattern>
+  </defs>
+  <rect width="960" height="720" fill="url(#bg)"></rect>
+  <rect width="960" height="720" fill="url(#grid)"></rect>
+  <circle cx="790" cy="100" r="205" fill="#32daa6" opacity=".06"></circle>
+  <text x="66" y="85" fill="#69f5bd" font-family="Arial" font-size="19" font-weight="bold" letter-spacing="5">SORT FOR TOMORROW</text>
+  <text x="66" y="144" fill="#effff8" font-family="Arial" font-size="43" font-weight="bold">Small actions.</text>
+  <text x="66" y="199" fill="#effff8" font-family="Arial" font-size="43" font-weight="bold">Big impact.</text>
+  <path d="M70 480v-70h73v-94h67v123h60v-94h90v99h67v-130h67v122h78v-75h84v80h88v-120h84v159" stroke="#6fd9b0" stroke-width="3" opacity=".35" fill="none"></path>
+  <g transform="translate(90 445)">
+    <rect width="205" height="170" rx="12" fill="#246f63"></rect>
+    <rect x="-8" y="-17" width="221" height="24" rx="8" fill="#3bbfa0"></rect>
+    <text x="103" y="65" fill="white" font-size="55" text-anchor="middle">♻</text>
+    <text x="103" y="125" fill="#eafff6" font-family="Arial" text-anchor="middle" font-size="21" font-weight="bold">RECYCLE</text>
+  </g>
+  <g transform="translate(372 445)">
+    <rect width="205" height="170" rx="12" fill="#526b44"></rect>
+    <rect x="-8" y="-17" width="221" height="24" rx="8" fill="#83b86d"></rect>
+    <path d="M94 89q-60-59 9-81q54 37-9 81m9-48q45-43 70-16q-1 54-70 60" fill="#d4f2bf" opacity=".9"></path>
+    <text x="103" y="125" fill="#eafff6" font-family="Arial" text-anchor="middle" font-size="21" font-weight="bold">COMPOST</text>
+  </g>
+  <g transform="translate(654 445)">
+    <rect width="205" height="170" rx="12" fill="#60747d"></rect>
+    <rect x="-8" y="-17" width="221" height="24" rx="8" fill="#8da4ac"></rect>
+    <path d="M76 36l54 62m0-62L76 98" stroke="white" stroke-width="14" opacity=".9"></path>
+    <text x="103" y="125" fill="#eafff6" font-family="Arial" text-anchor="middle" font-size="21" font-weight="bold">LANDFILL</text>
+  </g>
+  <rect x="723" y="235" width="125" height="104" rx="16" fill="#d1eeab" transform="rotate(10 723 235)"></rect>
+  <path d="M766 245l42 40m-45-2l42-39" stroke="#3a6e49" stroke-width="8"></path>
+  <path d="M600 268q-10 58-43 79" fill="none" stroke="#63edb6" stroke-width="3" stroke-dasharray="8 10"></path>
+  <path d="m548 339 5 19 17-10" fill="none" stroke="#63edb6" stroke-width="4"></path>
+</svg>
